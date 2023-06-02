@@ -11,7 +11,7 @@ def encrypt_message(message: str, key: int):
     part_one = reversed(message[:key])
     part_two = reversed(message[key:])
 
-    if not key % 2:  # par
+    if not key % 2:
         part_two, part_one = part_one, part_two
 
     return "".join(part_one) + "_" + "".join(part_two)
