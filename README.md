@@ -1,6 +1,6 @@
 ## 🧐 Sobre
 
-O projeto algorithms é um projeto feito para fins estudantis, onde foi meu primeiro contato com o Pyhon, desenvolvi soluções para algoritmos que reslvem diversos problemas do dia a dia:	
+O projeto algorithms é um projeto feito para fins estudantis, onde foi meu primeiro contato com o Pyhon, desenvolvi soluções para algoritmos que resolvem diversos problemas do dia a dia:	
  
   🚵 Habilidades exercitadas:
   
@@ -19,3 +19,7 @@ O projeto algorithms é um projeto feito para fins estudantis, onde foi meu prim
 
 ## Principais tecnologias utilizadas:
 - Python
+
+## Contribuição:
+
+Criei as funções dos arquivos que estão dentro da pasta challenges, o restante dos arquivos forma criados pela Trybe
